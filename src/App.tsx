@@ -9,7 +9,7 @@ import { Header } from "./components/Header";
 import { Dashboard } from "./components/Dashboard";
 import { NewTransactionModal } from "./components/NewTransactionModal";
 
-import { TransactionsContext, TransactionProvider } from "./TransactionsContext";
+import { TransactionProvider } from "./hook/useTransactions";
 
 createServer({
   models: {
@@ -60,8 +60,6 @@ Modal.setAppElement("#root");
 export function App() {
   const [isNewTransactionModalOpen, setIsNewTransactionModalOpen] =
     useState(false);
-
-    const { Provider } = TransactionsContext;
 
   function handleOpenNewTransactionModal() {
     setIsNewTransactionModalOpen(true);
