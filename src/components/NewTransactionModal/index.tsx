@@ -28,6 +28,10 @@ export function NewTransactionModal({
   async function handleCreateNewTransaction(e: FormEvent) {
     e.preventDefault();
 
+    if(!amount || !title || !category) {
+      return;
+    }
+
     await createTransaction({
       title,
       amount,
@@ -65,7 +69,7 @@ export function NewTransactionModal({
           onChange={(event) => setTitle(event.target.value)}
         />
         <input
-          type="number"
+          type="tel"
           placeholder="Valor"
           value={amount}
           onChange={(event) => setAmount(Number(event.target.value))}
