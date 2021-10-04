@@ -4,7 +4,7 @@
 
 <p align="center">
   <img alt="License: MIT" src="https://img.shields.io/github/license/martinsgabriel1956/rocketshoes-ignite?style=for-the-badge&color=6933FF" />
-  <img alt="Pull Request: Welcome" src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=33cc95labelColor=41414D&style=for-the-badge" />
+  <img alt="Pull Request: Welcome" src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=33CC95&labelColor=41414D&style=for-the-badge" />
 </p>
 
 https://user-images.githubusercontent.com/59969985/134601864-3c0c84d6-b10b-4568-a1d5-aa4e327e8d15.mp4
