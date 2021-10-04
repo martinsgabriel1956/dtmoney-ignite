@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img alt="License: MIT" src="https://img.shields.io/github/license/martinsgabriel1956/rocketshoes-ignite?style=for-the-badge&color=6933FF" />
+  <img alt="License: MIT" src="https://img.shields.io/github/license/martinsgabriel1956/dtmoney-ignite?style=for-the-badge&color=5429CC" />
   <img alt="Pull Request: Welcome" src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=33CC95&labelColor=41414D&style=for-the-badge" />
 </p>
 
