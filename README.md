@@ -11,12 +11,6 @@ https://user-images.githubusercontent.com/59969985/134601864-3c0c84d6-b10b-4568-
 
 <br />
 
-# :pushpin: Conteúdo
-
-- [Tecnologias](#computer-tecnologias)
-- [Como Executar](#construction_worker-executando)
-- [Licença](#memo-licença)
-
 # :computer: Tecnologias
 
 - [React](https://reactjs.org/)
