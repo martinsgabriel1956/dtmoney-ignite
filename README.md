@@ -38,7 +38,7 @@ git clone git@github.com:martinsgabriel1956/dtmoney-ignite.git
 
 git clone https://github.com/martinsgabriel1956/dtmoney-ignite.git
 
-## Instale as dependência
+## Instale as dependências
 
 npm i/install
 
